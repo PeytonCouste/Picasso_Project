@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto !important;
+}
+
+.myForm {
+  margin-top: 10vh;
+}
+
+.flexParent {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.divFlex {
+  height: 300px;
+  width: 300px;
+}
+
+.pic1 {
+  background-image: url(https://imgs.search.brave.com/ri_Nj4TL4U5O0CiJuoOKEFmU1rdZgTh4_RSM6CNqY5w/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGFibG9waWNhc3Nv/Lm9yZy9hc3NldHMv/aW1nL3BhYmxvLXBp/Y2Fzc28tcGhvdG8u/anBn);
+}
+
+.pic2 {
+  background-image: url(https://imgs.search.brave.com/b6mGWBzR8MAcCQ8w898MhSmlG89WxGeNs4H5ES1BiZk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzIyLzUxLzkw/LzM2MF9GXzYyMjUx/OTA0N180OEtwak1C/allteXEwRXpiSHhF/T0g2Sk13QktDVEpC/ei5qcGc);
+}
+
+.pic3 {
+  background-image: url(https://imgs.search.brave.com/zhwSmxCP5_ny7yjDrrwp06Xqt3UE4-sg4bOh2fsvLVc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9ubmFy/dC5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjMvMDIvcGlj/YXNzby15by1waWNh/c3NvLTE5MDEud2Vi/cA);
+}
+
